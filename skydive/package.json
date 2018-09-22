@@ -1,0 +1,15 @@
+{
+  "name": "skydive",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "diver": "ts-node index.ts"
+  },
+  "dependencies": {
+    "@types/node": "^10.10.3",
+    "isomorphic-fetch": "^2.2.1",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.0.3"
+  }
+}
